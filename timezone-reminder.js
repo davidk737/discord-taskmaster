@@ -1,3 +1,4 @@
+//This is the main bot script that send daily reminders to the ratings channel.
 const Discord = require('discord.js')
 const client = new Discord.Client()
 
